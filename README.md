@@ -18,11 +18,11 @@
 
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwemax&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwemax&layout=compact&theme=radical)  
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shwemax&theme=radical)
 
 <!--
 **shweMax/shweMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
