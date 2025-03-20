@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 - 🎓 3rd Year AIML Undergrad  
-- 🛠️ Experienced in **Django, Python, C++, ML and DSA**  
+- 🛠️ Worked with **Django, Python, C++, ML, DSA** and always exploring deeper! 
 - 🔍 Currently diving deeper into **Machine Learning**
 
 ## ⚡ Tech Stack  
