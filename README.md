@@ -1,7 +1,7 @@
 # Hi there, I am Shweta Dutta👋
 🚀 AI & ML Enthusiast | Django Developer | Open Source Contributor 
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue) 
+![Profile Views](https://komarev.com/ghpvc/?username=shwemax&color=blue) 
 
 ## 🌟 About Me  
 - 🎓 3rd Year AIML Undergrad  
