@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shwemax&color=blue) 
 
 ## 🌟 About Me  
-- 🎓 3rd Year AIML Undergrad  
+- 🎓 Final Year AIML Undergrad  
 - 🛠️ Worked with **Django, Python, C++, ML, DSA** and always exploring deeper! 
 - 🔍 Currently diving deeper into **Machine Learning**
 
