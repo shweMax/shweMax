@@ -1,5 +1,5 @@
 # Hi there, I am Shweta Dutta👋
-🚀 AI & ML Enthusiast | Django Developer | Open Source Contributor 
+🚀 AI & ML Enthusiast | Open Source Contributor 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shwemax&color=blue) 
 
